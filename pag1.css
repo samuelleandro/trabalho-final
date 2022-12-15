@@ -1,0 +1,57 @@
+body{
+    background-color: gray;
+}
+#valorant{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: white;
+    border: solid 10px black;
+    background-color: red;
+}
+#valorant:hover{
+    animation-name: animação;
+    animation-duration: 6s;   
+    animation-iteration-count: infinite;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+   transition-property: all;
+}
+#vava{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: white;
+
+}
+#oqueevalorant{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: white;
+    border: solid 10px black;
+    background-color: red;
+
+    
+}
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: white;
+}
+nav{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+    transition-duration: 2s;
+    transition-property: all;
+}
+@keyframes animação{
+    0% {background-color: blue; color: red;}
+    25% {background-color: green; color: yellow}
+    50% {background-color: white;color: black}
+    75%{background-color: purple;color: pink;}
+    100%{background-color: aqua;color:crimson}
+ }

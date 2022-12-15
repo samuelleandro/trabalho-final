@@ -1,0 +1,198 @@
+body{
+    background-color: gray;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+   background-image: url();
+   font-family: 'Nunito', sans-serif;
+}
+.imgcontro{
+    text-align: left; 
+   margin-left: 550px;
+  padding: 20px;
+  transition-timing-function: ease;
+   transition-duration: 2s;
+}
+.controladores{
+    text-align: center;
+    margin-top: -120px;
+    margin-left: 150px;
+    font-size: xx-large;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+.controquesao{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    padding: 20px;
+    font-size: larger;
+    border: solid 10px black;
+    background-color: red;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+.nomes{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: black;
+    border: solid 10px black;
+    background-color: white;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introbrimstone{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginfobrimstone{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imgbrimstone{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#infobrimstone{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introomen{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginfoomen{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imgomen{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#infoomen{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introviper{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginfoviper{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imgviper{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#infoviper{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introastra{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginfoastra{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imgastra{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#infoastra{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introharbor{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginfoharbor{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imgharbor{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#infoharbor{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}

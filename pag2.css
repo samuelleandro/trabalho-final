@@ -1,0 +1,212 @@
+body{
+    background-color: gray;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+   background-image: url();
+}
+
+.imgdue{
+  text-align: left; 
+   margin-left: 600px;
+  padding: 20px;
+  transition-timing-function: ease;
+   transition-duration: 2s;
+}
+.due{
+    text-align: center;
+    margin-top: -120px;
+    margin-left: 150px;
+    font-size: xx-large;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+.dueoquesao{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    font-size: larger;
+    border: solid 10px black;
+    background-color: red;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+
+}
+
+.nomes{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: black;
+    border: solid 10px black;
+    background-color: white;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introjett{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+ 
+}
+#imgjett{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+    
+    
+}
+#infojett{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+    
+}
+#imgeinfojett{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+
+#introraze{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+ 
+}
+#imgraze{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+    
+}
+#inforaze{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginforaze{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginfophoenix{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introphoenix{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    transition-timing-function: ease;
+    transition-duration: 2s;
+}
+#imgphoenix{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#infophoenix{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginfoneon{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introneon{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    transition-timing-function: ease;
+    transition-duration: 2s;
+}
+#imgneon{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#infoneon{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#imginfoyoru{
+    border: solid 10px black;
+    background-color: red;
+    padding: 20px;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#introyoru{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    transition-timing-function: ease;
+    transition-duration: 2s;
+}
+#imgyoru{
+    text-align: left;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+#infoyoru{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -140px;
+    margin-left: 600px;
+    font-size: xx-large;
+    transition-timing-function: ease;
+   transition-duration: 2s;
+}
+
